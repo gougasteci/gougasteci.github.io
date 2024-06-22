@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gougasteci.github.io/sitemap
+Sitemap: https://gougasteci.github.io/app/sitemap
+Sitemap: https://gougasteci.github.io/assets/sitemap
+Sitemap: https://gougasteci.github.io/css/sitemap
+Sitemap: https://gougasteci.github.io/includes/sitemap
+Sitemap: https://gougasteci.github.io/item/sitemap
+Sitemap: https://gougasteci.github.io/src/sitemap
